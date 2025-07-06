@@ -7,5 +7,8 @@ public class spark {
     public void notifacation(){
       System.out.println("notify");
     }
+    public void auth(){
+      System.out.println("auth");
+    }
       
 }
